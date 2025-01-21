@@ -2,4 +2,4 @@
 
 a vbs app that runs internet explorer with no redirection to edge
 
-![screenshot](screenshot.png)
+![screenshot](internet-explorer-restored/screenshot.PNG)
